@@ -15,7 +15,7 @@ Each script is documented for ease of understanding and practical application.
 ## Getting Started
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/PyStructAlgo.git
+   git clone https://github.com/EdoMg2/PyStructAlgo.git
 2. Navigate to the script of interest and run it using Python.
 ## Prerequisites
 Python 3.x
